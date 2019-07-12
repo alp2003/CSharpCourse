@@ -1,2 +1,2 @@
 # CSharpCourse
-C# Sharp Full Course Peojects
+C# Sharp Full Course Projects
